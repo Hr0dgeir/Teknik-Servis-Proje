@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\kullanici_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullanici_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\kullanici_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullanici_ekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\tamir_edilen_cihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\tamir_edilen_cihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\tamir_edilen_cihazlar_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\tamir_edilen_cihazlar_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\yonetici_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\yonetici_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\personel_goruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\personel_goruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\kullaniciayarlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullaniciayarlari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\kullan\u0131c\u0131_ayarlar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullan\u0131c\u0131_ayarlar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\cihaz\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\cihaz\u0130slemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\ana_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\ana_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\yonetici_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\yonetici_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\ana_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\ana_panel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\tamiredilencihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\tamiredilencihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\sha256.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\sha256.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\personelislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\personelislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\kullanicibilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullanicibilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\personel_goruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\personel_goruntule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\tamir_edilen_cihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\tamir_edilen_cihazlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\kullan\u0131c\u0131_ayarlar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\kullan\u0131c\u0131_ayarlar\u0131.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\urun_islem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\teknik-servis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|c:\\users\\m3rt1\\source\\repos\\teknik-servis\\teknik-servis\\tamir_edilen_cihazlar_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B4D74-F6D9-4BA3-80AE-2FBFE64286DD}|Teknik-Servis\\Teknik-Servis.csproj|solutionrelative:teknik-servis\\tamir_edilen_cihazlar_detay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tamir_edilen_cihazlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Tamir_edilen_cihazlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:19:03.951Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Urun_Islem.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Urun_Islem.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Urun_Islem.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Urun_Islem.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Urun_Islem.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:29:43.563Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tamir_edilen_cihazlar_detay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:26:38.69Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici_Ekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullanici_Ekle.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Kullanici_Ekle.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullanici_Ekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Kullanici_Ekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:28:51.828Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici_Ekle.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullanici_Ekle.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Kullanici_Ekle.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullanici_Ekle.cs",
+              "RelativeToolTip": "Teknik-Servis\\Kullanici_Ekle.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:31:09.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciEkle.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\KullaniciEkle.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\KullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\KullaniciEkle.cs",
+              "RelativeToolTip": "Teknik-Servis\\KullaniciEkle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwBwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:44:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Yonetici_panel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Yonetici_panel.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Yonetici_panel.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Yonetici_panel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Yonetici_panel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:03:08.089Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Personel_Goruntule.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Personel_Goruntule.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Personel_Goruntule.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Personel_Goruntule.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Personel_Goruntule.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:11:23.235Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KullaniciAyarlari.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\KullaniciAyarlari.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\KullaniciAyarlari.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\KullaniciAyarlari.cs",
+              "RelativeToolTip": "Teknik-Servis\\KullaniciAyarlari.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:31:42.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kullan\u0131c\u0131_Ayarlar\u0131.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:46:28.935Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Form1.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Form1.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:14:18.122Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cihaz\u0130slemleri.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\cihaz\u0130slemleri.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\cihaz\u0130slemleri.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\cihaz\u0130slemleri.cs",
+              "RelativeToolTip": "Teknik-Servis\\cihaz\u0130slemleri.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:34:30.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ana_Panel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Ana_Panel.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Ana_Panel.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Ana_Panel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Teknik-Servis\\Ana_Panel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:02:33.564Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Yonetici_panel.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Yonetici_panel.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Yonetici_panel.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Yonetici_panel.cs",
+              "RelativeToolTip": "Teknik-Servis\\Yonetici_panel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAewDIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:03:56.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ana_Panel.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Ana_Panel.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Ana_Panel.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Ana_Panel.cs",
+              "RelativeToolTip": "Teknik-Servis\\Ana_Panel.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAMwCUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:19:07.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "tamirEdilenCihazlar.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\tamirEdilenCihazlar.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\tamirEdilenCihazlar.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\tamirEdilenCihazlar.cs",
+              "RelativeToolTip": "Teknik-Servis\\tamirEdilenCihazlar.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:19:44.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sha256.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\sha256.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\sha256.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\sha256.cs",
+              "RelativeToolTip": "Teknik-Servis\\sha256.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:04:16.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Program.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Program.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Program.cs",
+              "RelativeToolTip": "Teknik-Servis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:44:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonelIslemleri.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\PersonelIslemleri.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\PersonelIslemleri.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\PersonelIslemleri.cs",
+              "RelativeToolTip": "Teknik-Servis\\PersonelIslemleri.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwBQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:16:53.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "kullaniciBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\kullaniciBilgileri.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\kullaniciBilgileri.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\kullaniciBilgileri.cs",
+              "RelativeToolTip": "Teknik-Servis\\kullaniciBilgileri.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:16:53.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "giris.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\giris.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\giris.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\giris.cs",
+              "RelativeToolTip": "Teknik-Servis\\giris.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:01:43.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Personel_Goruntule.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Personel_Goruntule.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Personel_Goruntule.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Personel_Goruntule.cs",
+              "RelativeToolTip": "Teknik-Servis\\Personel_Goruntule.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAMwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:18:08.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tamir_edilen_cihazlar.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "RelativeToolTip": "Teknik-Servis\\Tamir_edilen_cihazlar.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAwwBoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:21:33.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "RelativeToolTip": "Teknik-Servis\\Kullan\u0131c\u0131_Ayarlar\u0131.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAewGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T19:24:45.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Urun_Islem.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Urun_Islem.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Urun_Islem.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Urun_Islem.cs",
+              "RelativeToolTip": "Teknik-Servis\\Urun_Islem.cs",
+              "ViewState": "AQIAAOsAAAAAAAAAAAAnwPsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T18:34:17.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Form1.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Form1.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Form1.cs",
+              "RelativeToolTip": "Teknik-Servis\\Form1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T17:27:22.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tamir_edilen_cihazlar_detay.cs",
+              "DocumentMoniker": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "RelativeDocumentMoniker": "Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "ToolTip": "C:\\Users\\m3rt1\\source\\repos\\Teknik-Servis\\Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "RelativeToolTip": "Teknik-Servis\\Tamir_edilen_cihazlar_detay.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwBwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T18:29:58.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
